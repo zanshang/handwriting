@@ -1,5 +1,7 @@
 # 手写字母识别挑战
 
+![Image of digits](https://github.com/zanshang/handwriting/raw/master/example_digits.png)
+
 数据文件里有一个train.csv文件，这个文件里包含了一系列的灰度图片，图片上有一些手写数字，数字范围是从0到9
 
 每一张图片都是28像素高28像素宽，总共784个像素，每一个像素都用一个数值来代表，越小的数字代表颜色越浅，越大的数字代表颜色越深，数字的范围是0到255.
